@@ -1,0 +1,9 @@
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\bin\Debug\gcd.exe.config
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\bin\Debug\gcd.exe
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\bin\Debug\gcd.pdb
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\obj\Debug\gcd.csprojResolveAssemblyReference.cache
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\obj\Debug\gcd.Form1.resources
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\obj\Debug\gcd.Properties.Resources.resources
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\obj\Debug\gcd.csproj.GenerateResource.Cache
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\obj\Debug\gcd.exe
+c:\users\w\documents\visual studio 2013\Projects\gcd\gcd\obj\Debug\gcd.pdb
