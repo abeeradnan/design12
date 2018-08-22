@@ -1,0 +1,9 @@
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\bin\Debug\سيمنار.exe.config
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\bin\Debug\سيمنار.exe
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\bin\Debug\سيمنار.pdb
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\obj\Debug\سيمنار.csprojResolveAssemblyReference.cache
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\obj\Debug\سيمنار.Form1.resources
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\obj\Debug\سيمنار.Properties.Resources.resources
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\obj\Debug\سيمنار.csproj.GenerateResource.Cache
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\obj\Debug\سيمنار.exe
+c:\users\w\documents\visual studio 2013\Projects\سيمنار\سيمنار\obj\Debug\سيمنار.pdb
